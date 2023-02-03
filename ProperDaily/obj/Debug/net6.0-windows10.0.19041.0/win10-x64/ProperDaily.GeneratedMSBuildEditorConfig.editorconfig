@@ -1,0 +1,60 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProperDaily
+build_property.ProjectDir = E:\Usuarios\user\Descargas\GitHub\SQLite-.NET-MAUI\ProperDaily\
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/MVVM/Views/AppContainer.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.MVVM.Views.AppContainer.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\AppContainer.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\AppContainer.xaml
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/MVVM/Views/DashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.MVVM.Views.DashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\DashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\DashboardPage.xaml
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/MVVM/Views/StatisticsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.MVVM.Views.StatisticsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\StatisticsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\StatisticsPage.xaml
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/MVVM/Views/TransactionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.MVVM.Views.TransactionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\TransactionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TransactionPage.xaml
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/Usuarios/user/Descargas/GitHub/SQLite-.NET-MAUI/ProperDaily/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProperDaily.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
